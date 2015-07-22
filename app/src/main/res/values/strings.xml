@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Circular Reveal Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="text1">text1</string>
+    <string name="text2">text2</string>
+    <string name="button">click ME</string>
+</resources>
